@@ -61,3 +61,6 @@ Before running this project, make sure to follow these steps:
 │       ├── 20Enemies.png
 │       └── Hello.png
 └── other-project-files
+
+#### Note
+This project is just for learning purpose only.
