@@ -18,12 +18,12 @@ samples, guidance on mobile development, and a full API reference.
 
 #To run this project
 You need first download all the files and create an assets folder, where you will create two folders.
--Images
--tiles (it is already present)
+-[Images]
+-[tiles] (it is already present)
 
 Inside Images folder, you will to put the following folders
--Background
--HUD
+-[Background]
+-[HUD]
 -Items
 -Main Characters
 -Menu
